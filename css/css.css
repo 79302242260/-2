@@ -1,0 +1,15 @@
+#block{
+    height: 740px;
+    border-radius: 0px;
+    background-color: antiquewhite;
+    margin: -8px;
+    
+}
+.block2{
+    background-color: #BA7A94;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    top:  100px;
+    left: 200px;
+}
